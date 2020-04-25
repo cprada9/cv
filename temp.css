@@ -1,0 +1,57 @@
+._form {
+    padding: 0 !important;
+}
+
+._form-image-left {
+  width: 250px;
+}
+
+._form-image {
+     display: block;
+}
+
+._form-content-right {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 0;
+    margin-left: 250px;
+    height: 500px;
+}
+
+._form-content-right ._form-title {
+    padding-top: 3.0em;
+    text-align: center;
+    color: #B22125;
+    font-size: 31px;
+    font-weight: 400;
+    font-family: Georgia;
+    line-height: 1.2;
+}
+
+._form-content-right ._field_name,
+._form-content-right ._field_email {
+    border-color: #cccccc;
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+    background: #ffffff;
+    color: #C1663E;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 15px 15px;
+}
+
+._form-content-right ._form-body {
+    font-family: Georgia;
+    color: #C2D4D7;
+    font-size: 17px;
+    text-align: center;
+}
+
+._form-content-right ._submit {
+    margin-top: 0.5em;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
